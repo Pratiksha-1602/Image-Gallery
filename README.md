@@ -14,14 +14,14 @@ HTML: Used for structuring the content of the image gallery.
 CSS (Flexbox): Used for styling and creating a responsive layout using Flexbox
 
 - Installation:
-Clone the repository:
-git clone https://github.com/your-username/image-gallery-project.git
+  - Clone the repository:
+    `git clone https://github.com/your-username/image-gallery-project.git`
 
-Navigate to the project folder:
-cd image-gallery-project
+  - Navigate to the project folder:
+    `cd image-gallery-project`
 
-Open the project:
-Open the index.html file in your preferred browser to view the image gallery.
+  - Open the project:
+    Open the index.html file in your preferred browser to view the image gallery.
 
 - File Structure
 index.html: The main HTML file that structures the image gallery.
